@@ -1,0 +1,8 @@
+/.idea
+/.git
+/src/Cache
+/composer.lock
+/vendor
+/test/log
+/test/pft
+/test/pft_notify
